@@ -30,7 +30,7 @@ url: "https://domi385.github.io/"
 github_username:  domi385
 
 # Build settings
-theme: minima
+theme: jekyll-theme-cayman
 plugins:
   - jekyll-feed
 
